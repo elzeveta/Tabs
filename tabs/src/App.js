@@ -4,7 +4,7 @@ import Goals from "./components/Goals";
 import Vision from "./components/Vision";
 import Navbar from "./components/Navbar";
 import Header from "./components/Header";
-import "./styles.css";
+import "./App.css";
 
 export default function App() {
   return (
